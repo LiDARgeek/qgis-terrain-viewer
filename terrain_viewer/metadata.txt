@@ -1,0 +1,18 @@
+[general]
+name=Terrain Viewer
+qgisMinimumVersion=3.40
+qgisMaximumVersion=3.99
+description=Interactive 3D DEM/DTM/DSM QC viewer with point/surface rendering, relief-shaded elevation and imagery RGB, cross-sections, contours, 3D measurement, adaptive detail, and safe visual densification.
+about=Interactive 3D terrain and surface QC viewer for QGIS. Visualize and compare multiple DEM, DTM, and DSM rasters as either QC points or continuous triangle surfaces in a detached 3D viewport while keeping compact controls docked inside QGIS. Includes adaptive detail, display-only Dense 2x/3x native-Z scatter, high-resolution bilinear imagery RGB sampling with coherent synthetic-point color inheritance, display-only directional relief shading, adaptive screen-space point fill, Z-aware SHP/GeoPackage/GeoJSON line overlays, corridor-based cross-sections, surface-ribbon cross-sections, direct 3D measurement, Z-outlier handling, and cursor-focused navigation. Surface meshes never bridge NoData gaps; measurements and QC statistics remain based on native raster samples. No external Python packages or pip installation are required. Tested with QGIS 3.40.x and QGIS 3.44.x on Windows. QGIS 4 is not yet supported.
+version=1.3.0
+author=LiDARgeek
+email=geek.lidar@gmail.com
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
+tags=dem,dtm,dsm,elevation,3d,surface,raster,lidar,qc,contours,cross-section,measurement,geopackage
+homepage=https://github.com/LiDARgeek/qgis-terrain-viewer#readme
+repository=https://github.com/LiDARgeek/qgis-terrain-viewer
+tracker=https://github.com/LiDARgeek/qgis-terrain-viewer/issues
+changelog=1.3.0 - Final naming release: renamed the plugin and all user-facing UI to Terrain Viewer. Rendering, QC, measurement, geometry, imagery, and densification behavior are unchanged from 1.2.1.

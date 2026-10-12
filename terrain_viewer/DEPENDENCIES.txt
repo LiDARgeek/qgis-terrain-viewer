@@ -1,0 +1,16 @@
+Runtime dependencies are supplied by QGIS and the operating system:
+
+- Python / PyQGIS
+- NumPy
+- GDAL Python bindings (osgeo.gdal); raster reads use ReadRaster and do not require gdal_array
+- PyQt5 / Qt OpenGL
+- System OpenGL library
+
+No pip installation is required for version 1.1.0.
+
+Compatibility target:
+- QGIS 3.40 through QGIS 3.44 (QGIS 3.x / Qt5)
+- Tested on QGIS 3.40.9 and QGIS 3.44.x on Windows
+- QGIS 4 / Qt6 is not yet supported
+
+The plugin contains no bundled executable binaries or compiled Python extensions.
