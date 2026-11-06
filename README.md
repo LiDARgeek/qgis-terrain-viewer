@@ -1,3 +1,4 @@
+
 # Terrain Viewer for QGIS
 
 ### Advanced 3D DEM / DTM / DSM Visualization and QC Tool for QGIS
@@ -6,7 +7,18 @@
 
 ---
 
+## Video Demonstration
+
+Watch Terrain Viewer in action and explore its 3D visualization and quality control features in QGIS.
+
+[![Terrain Viewer for QGIS - Video Demonstration](https://img.youtube.com/vi/jhJYohGMq5k/hqdefault.jpg)](https://www.youtube.com/watch?v=jhJYohGMq5k)
+
+**[Watch on YouTube](https://www.youtube.com/watch?v=jhJYohGMq5k)**
+
+---
+
 ## Overview
+
 
 **Terrain Viewer** is a QGIS plugin for interactive 3D visualization and quality control of DEM, DTM, and DSM raster surfaces.
 
