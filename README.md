@@ -497,6 +497,7 @@ https://github.com/LiDARgeek/qgis-terrain-viewer/issues
 
 ---
 
+
 # Contributing
 
 Contributions, testing, bug reports, and feature suggestions are welcome.
@@ -505,3 +506,13 @@ Typical workflow:
 
 ```bash
 git clone https://github.com/LiDARgeek/qgis-terrain-viewer.git
+```
+
+---
+
+# Video Demonstration
+
+Watch Terrain Viewer in action and see how to use its features in QGIS.
+
+[▶ Watch Terrain Viewer on YouTube](https://www.youtube.com/watch?v=jhJYohGMq5k)
+
